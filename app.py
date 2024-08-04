@@ -1,0 +1,1 @@
+print('Aplicação de teste')
